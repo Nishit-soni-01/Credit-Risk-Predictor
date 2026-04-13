@@ -2,4 +2,6 @@ streamlit
 pandas
 scikit-learn
 numpy
+plotly
 streamlit-lottie
+requests
