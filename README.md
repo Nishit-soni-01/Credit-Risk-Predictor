@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Live Demo
-**Check out the live app here:** [CreditShield AI Terminal](YOUR_DEPLOYED_APP_LINK_HERE)
+**Check out the live app here:** [CreditShield AI Terminal](https://credit-risk-predictor-klhq3fgkwxnmuumpj5xvu2.streamlit.app/)
 
 ---
 
