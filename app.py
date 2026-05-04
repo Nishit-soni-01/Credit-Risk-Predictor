@@ -7,7 +7,7 @@ from streamlit_lottie import st_lottie
 import requests
 import os
 
-# 1. Page Config (MUST be the very first Streamlit command)
+# 1. Page Config
 st.set_page_config(page_title="CreditShield AI Pro", page_icon="🏦", layout="wide")
 
 # 2. Asset Loaders
