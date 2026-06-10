@@ -10,7 +10,7 @@ import os
 
 st.set_page_config(page_title="CreditShield AI Pro", page_icon="🏦", layout="wide")
 
-# 2. Asset Loaders
+
 def load_lottieurl(url):
     try:
         r = requests.get(url)
