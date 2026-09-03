@@ -19,7 +19,7 @@ def load_lottieurl(url):
 
 @st.cache_resource
 def load_model_assets():
-    # Check if files exist first to prevent NameError
+   
     if not os.path.exists('model.pkl') or not os.path.exists('mappings.pkl'):
         return None, None
     
