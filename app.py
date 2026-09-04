@@ -35,7 +35,7 @@ def load_model_assets():
 model, mappings = load_model_assets()
 lottie_fin = load_lottieurl("https://lottie.host/8636e0d3-37a5-472d-8869-90d2e85a0695/S9iB6jY16p.json")
 
-# 3. Corrected CSS (Removed the 'stdio' error)
+
 st.markdown("""
     <style>
     .stApp { background: #f0f2f6; }
