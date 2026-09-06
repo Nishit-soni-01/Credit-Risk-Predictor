@@ -50,7 +50,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True) 
 
-# 4. Header & Safety Logic
+
 if model is None or mappings is None:
     st.error("⚠️ System Files Missing!")
     st.info("Please run your Jupyter Notebook ('brain' file) to generate 'model.pkl' and 'mappings.pkl' in this folder.")
