@@ -56,7 +56,7 @@ if model is None or mappings is None:
     st.info("Please run your Jupyter Notebook ('brain' file) to generate 'model.pkl' and 'mappings.pkl' in this folder.")
     st.stop()
 
-# 5. UI Layout
+
 st.markdown("<h1 style='text-align: center;'>🛡️ CreditShield Intelligence</h1>", unsafe_allow_html=True)
 
 m1, m2, m3 = st.columns(3)
