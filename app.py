@@ -105,7 +105,7 @@ with col2:
         else:
             st.error("### ❌ VERDICT: HIGH RISK / REJECTED")
 
-        # Visual Gauge
+       
         fig = go.Figure(go.Indicator(
             mode = "gauge+number",
             value = confidence * 100,
